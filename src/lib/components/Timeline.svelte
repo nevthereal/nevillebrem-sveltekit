@@ -25,8 +25,8 @@
 >
 	<Step>
 		<svelte:fragment slot="header">Early 2022</svelte:fragment>
-		Learned HTML and CSS in School. This was my first contact with Web Development and would change my
-		life for the better.
+		Learned HTML and CSS. This was my first contact with Web Development and would change my life for
+		the better.
 	</Step>
 	<Step>
 		<svelte:fragment slot="header">July 2022</svelte:fragment>

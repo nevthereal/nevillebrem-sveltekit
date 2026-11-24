@@ -48,11 +48,11 @@
 		<div class="m-auto">
 			<h1 class="h1 font-black">About me</h1>
 			<p class="mt-2 text-balance">
-				Hey there, my name is Neville Brem and I am a Web Developer from Zurich, Switzerland. I love
-				coding, computer science and everything to do with tech. I am 16 years old in a High School
-				in Zurich. I began my coding journey in 2021. Since then I've been fascinated with web
-				development and learned many technologies around it. I have passions for all things digital
-				including photography, editing and AI.
+				Hey there, my name is Neville Brem and I am a Swiss web developer who went to a mathematical
+				and scientific high school. I love coding, computer science and everything to do with tech.
+				I began my coding journey in 2021. Since then I've been fascinated with web development and
+				learned many technologies around it. I have passions for all things digital including
+				photography, editing and AI.
 			</p>
 		</div>
 		<enhanced:img
